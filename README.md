@@ -2,8 +2,11 @@
 hey there. if you are NOT part of the 3d&7th fredericton vents group, go away.
 hi vents. this is the all the mods you need for the minecraft server and this readme is the windows install guide. 
 YOU WILL NEED:
+
 a computer runing windows( if you have a different os ask ciaran for help in the discord)
+
 a copy of minecraft java edition
+
 thats is
 
 
