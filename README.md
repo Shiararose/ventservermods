@@ -21,3 +21,6 @@ when that is done press windows + R, typing in %appdata%, and hitting Enter. Loo
 then copy all of the remaining files from the unziped folder into the mods directory that you just found
 
 now you can open the minecraft launcher and run the forge instance of minecraft from it then when it opens you go to multiplayer and hit direct conect then type the ip from the discord server and enter the server
+
+
+if you have issues ask ciaran from help in the discord
